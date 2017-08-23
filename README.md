@@ -1,2 +1,2 @@
-# hello.world
-This is a placeholder
+# This repo is for random but useful bits of code
+
